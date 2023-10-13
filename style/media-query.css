@@ -7,8 +7,8 @@
     }
 
     section#login {
+        height: 280px;
         width: 80vw;
-
     }
 
     section#login > div#imagem {
@@ -30,6 +30,7 @@
     }
 
     section#login {
+        height: 350px;
         width: 950px;
     }
 
@@ -49,6 +50,7 @@
     }
 
     div#formulario > p {
-        font-size: 1.2em;
+        font-size: 1em;
+        margin: 20px 0px;
     }
 }
